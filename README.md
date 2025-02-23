@@ -1,5 +1,4 @@
-Course Project. 
-This project involves advanced financial analysis and machine learning techniques applied to companies in the Russell 2000 index.
+This project, as a part of Machine-Learning-in-Finance course, involves advanced financial analysis and machine learning techniques applied to companies in the Russell 2000 index.
 
 **K-Means Clustering Analysis**: The project begins with clustering companies traded in the Russell 2000 index using K-Means analysis. This unsupervised machine learning technique groups similar companies together based on selected financial metrics, allowing for the identification of distinct clusters within the index
 
